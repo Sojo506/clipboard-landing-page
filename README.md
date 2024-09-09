@@ -2,7 +2,7 @@
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome! 👋 Live preview 🔗https://sojo506-clipboardlandingpage.netlify.app/
 
 Thanks for checking out this front-end coding challenge.
 
